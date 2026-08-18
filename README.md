@@ -1,4 +1,4 @@
-## Hi there I am JuanNB1017👋
+## Hi there I am JaneDoeNB1017👋
 <img src="./banner.png">
 
 ![Static Badge](https://img.shields.io/badge/NPM-yellow?logo=npm)
